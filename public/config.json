@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "95bb004b-df7a-4b08-82d8-10b6fe994bce",
+      "applicationExtensionKey": "e2a42882-4e5d-4da0-bc94-b80e28295c1c",
       "save": {
         "url": "https://github.com/IsraelOzuna/SFMC/tree/master/public/journeybuilder/save",
           "verb": "POST",
