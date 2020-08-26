@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://github.com/IsraelOzuna/SFMC/tree/master/public/journeybuilder/execute",
+          "url": "https://israelozuna.github.io/SFMC/public/index.html/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -33,22 +33,22 @@
     "configurationArguments": {
       "applicationExtensionKey": "e2a42882-4e5d-4da0-bc94-b80e28295c1c",
       "save": {
-        "url": "https://github.com/IsraelOzuna/SFMC/tree/master/public/journeybuilder/save",
+        "url": "https://israelozuna.github.io/SFMC/public/index.html/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://github.com/IsraelOzuna/SFMC/tree/master/public/journeybuilder/publish",
+        "url": "https://israelozuna.github.io/SFMC/public/index.html/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://github.com/IsraelOzuna/SFMC/tree/master/public/journeybuilder/stop",
+        "url": "https://israelozuna.github.io/SFMC/public/index.html/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://github.com/IsraelOzuna/SFMC/tree/master/public/journeybuilder/validate",
+        "url": "https://israelozuna.github.io/SFMC/public/index.html/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
