@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://israelozuna.github.io/SFMC/public/index.html/JB_Custom_Act/execute",
+          "url": "https://customactivityeventtest.herokuapp.com/JB_Custom_Act/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -33,22 +33,22 @@
     "configurationArguments": {
       "applicationExtensionKey": "e2a42882-4e5d-4da0-bc94-b80e28295c1c",
       "save": {
-        "url": "https://israelozuna.github.io/SFMC/public/index.html/JB_Custom_Act/save",
+        "url": "https://customactivityeventtest.herokuapp.com/JB_Custom_Act/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://israelozuna.github.io/SFMC/public/index.html/JB_Custom_Act/publish",
+        "url": "https://customactivityeventtest.herokuapp.com/JB_Custom_Act/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://israelozuna.github.io/SFMC/public/index.html/JB_Custom_Act/stop",
+        "url": "https://customactivityeventtest.herokuapp.com/JB_Custom_Act/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://israelozuna.github.io/SFMC/public/index.html/JB_Custom_Act/validate",
+        "url": "https://customactivityeventtest.herokuapp.com/JB_Custom_Act/validate",
         "verb": "POST",
         "useJwt": true
       }
